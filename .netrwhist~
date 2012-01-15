@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/freelance/apps/backbone/examples/todos'
+let g:netrw_dirhist_2='/Users/freelance/apps/example-todos'
+let g:netrw_dirhist_3='/Users/freelance/apps/example-todos/test'
+let g:netrw_dirhist_4='/Users/freelance/apps/todo-express/views'
+let g:netrw_dirhist_5='/Users/freelance/apps/todo2/views'

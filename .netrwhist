@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/freelance/apps/bigapps-hack/brunch/src/app/views'
+let g:netrw_dirhist_2='/Users/freelance/apps/bigapps-hack/brunch/src/app/templates'
+let g:netrw_dirhist_3='/Users/freelance/apps/bigapps-hack'
+let g:netrw_dirhist_4='/Users/freelance/apps/bigapps-hack/brunch'
+let g:netrw_dirhist_5='/Users/freelance/apps/bigapps-hack/brunch/src'
+let g:netrw_dirhist_6='/Users/freelance/apps/bigapps-hack/brunch/src/app'
+let g:netrw_dirhist_7='/Users/freelance/apps/bigapps-hack/brunch/src/app/views'
+let g:netrw_dirhist_8='/Users/freelance'
+let g:netrw_dirhist_9='/Users/freelance/apps/digidj.github.com'
